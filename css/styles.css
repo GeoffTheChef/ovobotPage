@@ -1,0 +1,93 @@
+  /*
+
+Available Fonts 
+
+font-family: 'Bangers', cursive;
+font-family: 'Bebas Neue', cursive;
+font-family: 'Cinzel', serif;
+font-family: 'Major Mono Display', monospace;
+font-family: 'Monoton', cursive;
+font-family: 'Noto Sans Sundanese', sans-serif;
+font-family: 'Noto Serif JP', serif;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Parisienne', cursive;
+font-family: 'Sedgwick Ave', cursive;
+
+  */
+
+/* Setting Background Colour Black */ 
+
+* {background-color: black}
+
+h1 {
+font-size: 100;
+color:rgb(212, 253, 214);
+}
+
+#xtron {
+    font-family: 'Major Mono Display', monospace;
+    font-size: 200;
+}
+
+#xtron {
+    font-family: 'Orbitron', sans-serif;
+}
+
+#subheading {
+    font-family: 'Parisienne', cursive;
+}
+
+p {
+    color: white; 
+    font-size: 50;
+}
+
+ul {
+    color: white; 
+    font-size: 50;
+}
+
+p ul {
+  font-size: 100;
+}
+img {
+    width: 50%
+}
+
+a:before {
+  font-size: 48;
+}
+
+a:link {
+    color: rgb(152, 243, 243);
+    background-color: transparent;
+    text-decoration: none;
+    
+  }
+  
+  a:visited {
+    color: rgb(168, 60, 240);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(12, 182, 77);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: rgb(241, 118, 60);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+
+  button {
+      color:rgb(212, 253, 214)
+  }
+
+
+ div {
+   color: white; 
+ }
